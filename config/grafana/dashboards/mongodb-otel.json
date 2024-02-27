@@ -270,7 +270,11 @@
     ],
     "refresh": "",
     "schemaVersion": 39,
-    "tags": [],
+    "tags": [
+      "mongodb",
+      "prometheus",
+      "opentelemetry"
+    ],
     "templating": {
       "list": []
     },
