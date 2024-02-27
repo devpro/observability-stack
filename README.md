@@ -1,2 +1,9 @@
-# observability-stack
-Observability stack
+# Observability stack
+
+Work in progress!
+
+## Content
+
+### Grafana dashboards
+
+* MongoDB
